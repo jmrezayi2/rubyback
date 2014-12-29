@@ -5,6 +5,7 @@ json.jm do
   json.source_name task2['source_name']
   json.source_identifier task2['source_identifier']
   json.task2_count task2['task2_count']
+  json.deadline task2['deadline']
   json.active
  
  end

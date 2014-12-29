@@ -1,0 +1,24 @@
+--- 
+cursor_positions: 
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-27 21:34:25.711000 -05:00
+  - :path: db/migrate/20141229010339_tasks.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-28 20:03:39.270000 -05:00
+  - :path: db/migrate/20141229011029_tasks.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-28 20:10:29.135000 -05:00
+  - :path: db/migrate/20141229011421_add_filedname_to_tablename.rb
+    :cursor_offset: 126
+    :timestamp: 2014-12-28 20:14:21.751000 -05:00
+  - :path: db/migrate/20141228023950_create_tasks.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-27 21:39:50.174000 -05:00
+  - :path: app/controllers/api/v1/tasks_controller.rb
+    :cursor_offset: 1049
+    :timestamp: 2014-12-28 20:23:01.842000 -05:00
+  - :path: db/schema.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-28 20:24:13.463000 -05:00
+files_to_retain: 0
