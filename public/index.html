@@ -9,7 +9,6 @@
         font-size: 14px;
       }
       a { color: #0000FF; }
-
       #container {
         width: 75%;
         margin: 0 auto;
@@ -23,16 +22,15 @@
     <script type="text/javascript" charset="utf-8">
       $(function() {
         function addTask(task) {
+          console.log(task);
           $.each(task, function(){console.log(this.jm); $('#tasks').append('<li>' + this.jm.name + '</ul>');});
         }
-
         $('#new_task').submit(function(e) {
-          $.post('/api/v1/tasks', $(this).serialize(), addTask);
+          $.post('/api/v1/tasks.json', $(this).serialize(), addTask);
           this.reset();
           e.preventDefault();
         });
-
-        $.getJSON('api/v1/tasks', function(tasks) {
+        $.getJSON('api/v1/tasks.json', function(tasks) {
           console.log(tasks);
 		  $.each(tasks, function() {addTask(this); });
         });
