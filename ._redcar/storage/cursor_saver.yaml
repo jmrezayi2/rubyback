@@ -12,27 +12,15 @@ cursor_positions:
   - :path: db/migrate/20141228023950_create_tasks.rb
     :cursor_offset: 0
     :timestamp: 2014-12-27 21:39:50.174000 -05:00
-  - :path: app/controllers/api/v1/tasks_controller.rb
-    :cursor_offset: 1049
-    :timestamp: 2014-12-28 20:23:01.842000 -05:00
   - :path: db/schema.rb
     :cursor_offset: 0
     :timestamp: 2014-12-28 20:24:13.463000 -05:00
-  - :path: config/application.rb
-    :cursor_offset: 1111
-    :timestamp: 2014-12-28 22:20:12.782000 -05:00
   - :path: config/boot.rb
     :cursor_offset: 0
     :timestamp: 2014-12-28 22:20:12.783000 -05:00
   - :path: config/environment.rb
     :cursor_offset: 0
     :timestamp: 2014-12-28 22:20:12.784000 -05:00
-  - :path: config/routes.rb
-    :cursor_offset: 0
-    :timestamp: 2014-12-28 22:20:12.790000 -05:00
-  - :path: Gemfile
-    :cursor_offset: 135
-    :timestamp: 2014-12-31 14:47:49.530000 -05:00
   - :path: config.ru
     :cursor_offset: 0
     :timestamp: 2014-12-28 22:20:12.781000 -05:00
@@ -43,6 +31,37 @@ cursor_positions:
     :cursor_offset: 1600
     :timestamp: 2014-12-28 22:20:12.785000 -05:00
   - :path: app/views/api/v1/tasks/_show.json.jbuilder
+    :cursor_offset: 255
+    :timestamp: 2014-12-31 17:01:47.152000 -05:00
+    :selection_offset: 242
+    :block_selection_mode: false
+  - :path: app/views/api/v1/tasks/index.json.jbuilder
+    :cursor_offset: 14
+    :timestamp: 2014-12-28 22:20:12.775000 -05:00
+    :selection_offset: 2
+    :block_selection_mode: false
+  - :path: config/routes.rb
+    :cursor_offset: 1694
+    :timestamp: 2014-12-31 15:07:38.117000 -05:00
+  - :path: Gemfile
     :cursor_offset: 0
-    :timestamp: 2014-12-28 22:20:12.774000 -05:00
+    :timestamp: 2014-12-31 17:07:04.216000 -05:00
+  - :path: config/application.rb
+    :cursor_offset: 966
+    :timestamp: 2014-12-31 17:07:38.913000 -05:00
+    :selection_offset: 1154
+    :block_selection_mode: false
+  - :path: app/controllers/api/v1/tasks_controller.rb
+    :cursor_offset: 485
+    :timestamp: 2014-12-31 17:05:57.983000 -05:00
+    :selection_offset: 440
+    :block_selection_mode: false
+  - :path: public/index.html
+    :cursor_offset: 1086
+    :timestamp: 2014-12-31 16:45:42.356000 -05:00
+  - :path: app/views/api/v1/tasks/_task.json.jbuilder
+    :cursor_offset: 118
+    :timestamp: 2014-12-31 17:05:15.454000 -05:00
+    :selection_offset: 0
+    :block_selection_mode: false
 files_to_retain: 0

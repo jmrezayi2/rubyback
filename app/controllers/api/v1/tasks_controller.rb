@@ -25,7 +25,6 @@ module Api
 			if @task.save
 #        render json: {msg: "jamshid"}
         render @task, status: :created, location: nil
-
 			else
 			  render json: @task.errors, status: :unprocessable_entity
 			end

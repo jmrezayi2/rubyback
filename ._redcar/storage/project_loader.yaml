@@ -1,3 +1,5 @@
 --- 
-open_files: []
-
+open_files: 
+  - app/controllers/api/v1/tasks_controller.rb
+  - public/index.html
+  - app/views/api/v1/tasks/_task.json.jbuilder

@@ -14,6 +14,7 @@ gem 'tzinfo-data'
 
 gem 'jbuilder'
 
+gem 'rack-cors', :require => 'rack/cors'
 #gem 'rabl'
 
 # To use ActiveModel has_secure_password
