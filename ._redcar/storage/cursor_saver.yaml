@@ -64,4 +64,7 @@ cursor_positions:
     :timestamp: 2014-12-31 17:05:15.454000 -05:00
     :selection_offset: 0
     :block_selection_mode: false
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2014-12-28 22:20:12.759000 -05:00
 files_to_retain: 0
