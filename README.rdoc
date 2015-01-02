@@ -9,3 +9,4 @@ Install:
 
 You need to run <tt> rake db:migrate </tt> for the first time to run it.
 
+license: MIT
