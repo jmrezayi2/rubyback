@@ -30,16 +30,6 @@ cursor_positions:
   - :path: config/environments/development.rb
     :cursor_offset: 1600
     :timestamp: 2014-12-28 22:20:12.785000 -05:00
-  - :path: app/views/api/v1/tasks/_show.json.jbuilder
-    :cursor_offset: 255
-    :timestamp: 2014-12-31 17:01:47.152000 -05:00
-    :selection_offset: 242
-    :block_selection_mode: false
-  - :path: app/views/api/v1/tasks/index.json.jbuilder
-    :cursor_offset: 14
-    :timestamp: 2014-12-28 22:20:12.775000 -05:00
-    :selection_offset: 2
-    :block_selection_mode: false
   - :path: config/routes.rb
     :cursor_offset: 1694
     :timestamp: 2014-12-31 15:07:38.117000 -05:00
@@ -51,20 +41,34 @@ cursor_positions:
     :timestamp: 2014-12-31 17:07:38.913000 -05:00
     :selection_offset: 1154
     :block_selection_mode: false
-  - :path: app/controllers/api/v1/tasks_controller.rb
-    :cursor_offset: 485
-    :timestamp: 2014-12-31 17:05:57.983000 -05:00
-    :selection_offset: 440
-    :block_selection_mode: false
-  - :path: public/index.html
-    :cursor_offset: 1086
-    :timestamp: 2014-12-31 16:45:42.356000 -05:00
-  - :path: app/views/api/v1/tasks/_task.json.jbuilder
-    :cursor_offset: 118
-    :timestamp: 2014-12-31 17:05:15.454000 -05:00
-    :selection_offset: 0
-    :block_selection_mode: false
   - :path: Rakefile
     :cursor_offset: 0
     :timestamp: 2014-12-28 22:20:12.759000 -05:00
+  - :path: README.rdoc
+    :cursor_offset: 308
+    :timestamp: 2015-01-02 18:02:28.647000 -05:00
+  - :path: app/views/api/v1/tasks/_show.json.jbuilder
+    :cursor_offset: 75
+    :timestamp: 2015-01-02 17:53:47.475000 -05:00
+  - :path: public/index.html
+    :cursor_offset: 1086
+    :timestamp: 2014-12-31 16:45:42.356000 -05:00
+  - :path: app/controllers/api/v1/tasks_controller.rb
+    :cursor_offset: 493
+    :timestamp: 2014-12-31 17:05:57.983000 -05:00
+  - :path: app/models/task.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-28 22:20:12.771000 -05:00
+  - :path: app/views/api/v1/tasks/_task.json.jbuilder
+    :cursor_offset: 0
+    :timestamp: 2015-01-02 20:06:09 -05:00
+  - :path: app/views/api/v1/tasks/index.json.jbuilder
+    :cursor_offset: 162
+    :timestamp: 2014-12-28 22:20:12.775000 -05:00
+  - :path: app/views/api/v1/tasks/_create.json.jbuilder
+    :cursor_offset: 192
+    :timestamp: 2015-01-02 20:15:41.042000 -05:00
+  - :path: app/views/api/v1/tasks/create.json.jbuilder
+    :cursor_offset: 16
+    :timestamp: 2015-01-02 20:15:41 -05:00
 files_to_retain: 0
