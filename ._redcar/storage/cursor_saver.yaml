@@ -30,9 +30,6 @@ cursor_positions:
   - :path: config/environments/development.rb
     :cursor_offset: 1600
     :timestamp: 2014-12-28 22:20:12.785000 -05:00
-  - :path: config/routes.rb
-    :cursor_offset: 1694
-    :timestamp: 2014-12-31 15:07:38.117000 -05:00
   - :path: Gemfile
     :cursor_offset: 0
     :timestamp: 2014-12-31 17:07:04.216000 -05:00
@@ -76,4 +73,9 @@ cursor_positions:
   - :path: config/database.yml
     :cursor_offset: 249
     :timestamp: 2014-12-28 22:20:12.783000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 166
+    :timestamp: 2015-01-02 23:13:47.075000 -05:00
+    :selection_offset: 120
+    :block_selection_mode: false
 files_to_retain: 0
