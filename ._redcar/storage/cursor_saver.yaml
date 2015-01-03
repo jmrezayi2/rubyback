@@ -47,28 +47,33 @@ cursor_positions:
   - :path: README.rdoc
     :cursor_offset: 308
     :timestamp: 2015-01-02 18:02:28.647000 -05:00
-  - :path: app/views/api/v1/tasks/_show.json.jbuilder
-    :cursor_offset: 75
-    :timestamp: 2015-01-02 17:53:47.475000 -05:00
-  - :path: public/index.html
-    :cursor_offset: 1086
-    :timestamp: 2014-12-31 16:45:42.356000 -05:00
-  - :path: app/controllers/api/v1/tasks_controller.rb
-    :cursor_offset: 493
-    :timestamp: 2014-12-31 17:05:57.983000 -05:00
   - :path: app/models/task.rb
     :cursor_offset: 0
     :timestamp: 2014-12-28 22:20:12.771000 -05:00
-  - :path: app/views/api/v1/tasks/_task.json.jbuilder
-    :cursor_offset: 0
-    :timestamp: 2015-01-02 20:06:09 -05:00
-  - :path: app/views/api/v1/tasks/index.json.jbuilder
-    :cursor_offset: 162
-    :timestamp: 2014-12-28 22:20:12.775000 -05:00
   - :path: app/views/api/v1/tasks/_create.json.jbuilder
     :cursor_offset: 192
     :timestamp: 2015-01-02 20:15:41.042000 -05:00
   - :path: app/views/api/v1/tasks/create.json.jbuilder
     :cursor_offset: 16
     :timestamp: 2015-01-02 20:15:41 -05:00
+  - :path: app/controllers/api/v1/tasks_controller.rb
+    :cursor_offset: 443
+    :timestamp: 2015-01-02 20:18:01.429000 -05:00
+    :selection_offset: 465
+    :block_selection_mode: false
+  - :path: app/views/api/v1/tasks/_show.json.jbuilder
+    :cursor_offset: 89
+    :timestamp: 2015-01-02 20:10:41.995000 -05:00
+  - :path: app/views/api/v1/tasks/_task.json.jbuilder
+    :cursor_offset: 0
+    :timestamp: 2015-01-02 20:39:07.637000 -05:00
+  - :path: app/views/api/v1/tasks/index.json.jbuilder
+    :cursor_offset: 55
+    :timestamp: 2014-12-28 22:20:12.775000 -05:00
+  - :path: public/index.html
+    :cursor_offset: 766
+    :timestamp: 2014-12-31 16:45:42.356000 -05:00
+  - :path: config/database.yml
+    :cursor_offset: 249
+    :timestamp: 2014-12-28 22:20:12.783000 -05:00
 files_to_retain: 0

@@ -57,7 +57,7 @@ module Api
 		  private
 			
 			def task_params
-			  params.require(:task).permit(:name,:deadline)
+			  params.require(:task).permit(:name,:deadline,:id)
 			end
 		end
 	end
